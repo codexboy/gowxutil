@@ -1,4 +1,4 @@
-package wxutils
+package gowxutil
 
 import (
 	"bytes"
